@@ -1,5 +1,4 @@
-# Analytics Consulting Project Competitive Landscape
-Ironhack Week 2 Project: SQL
+# Analytics Consulting Project: Competitive Landscape
 
 
 This project focused on analyzing the competitive landscape for Ironhack in the coding school industry. We created and populated a comprehensive database with coding schools that were direct competitors to Ironhack, with focus on the top 5 Data Analytics Bootcamps.
